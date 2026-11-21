@@ -1,0 +1,8 @@
+# Dependencies used by eda.ipynb
+pandas>=2.0
+matplotlib>=3.7
+lifelines>=0.30
+ipython
+
+# Jupyter kernel for running the notebook
+ipykernel>=6
